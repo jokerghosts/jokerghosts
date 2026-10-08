@@ -1,56 +1,73 @@
-<h2 align="left">Hi 👋, I'm Sepehr Yekta</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2F81F7&height=200&section=header&text=Sepehr%20Yekta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Django%20and%20Telegram%20Bots&descSize=18&descAlignY=58&animation=fadeIn" alt="Sepehr Yekta" width="100%" />
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Django;Developing+powerful+Telegram+bots;Open+to+new+collaborations" alt="Typing SVG" />
+</p>
 
-<img align="right" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sGUPmVaJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sepehr-yekta-369071173"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sepehryekta79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://t.me/sphr79"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/jokerghosts"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">🔭 I’m currently working on Django, Telegram Bot<br>🌱 I’m currently learning Javascript , LPIC 1 (Linux)<br>🤝 I’m looking for help with Django<br>👯 I’m looking to collaborate on Django<br>💬 Ask me about Django, Telegram Bot (Pyrogram, PythonTelegramBot)</h3>
+I'm a **full-stack web developer** specializing in **Django**, building complete web applications from the database layer to the user interface. I also design and develop **Telegram bots**, from automation tools to full-featured bots connected to web backends.
 
-###
+- 🧩 **Main focus:** Full-stack web development with Django
+- 🤖 **Telegram bots:** Pyrogram, python-telegram-bot
+- 🗄️ **Databases:** PostgreSQL, MySQL
+- 🤝 **Open to collaborate on:** Django and Telegram bot projects
+- 💬 **Ask me about:** Django, web development and Telegram bots
+- 🌱 **Currently learning:** React and Docker
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+<table align="center">
+  <tr>
+    <th width="50%">Backend & Databases</th>
+    <th width="50%">Frontend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" alt="Backend & Databases" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <th>Tools & Automation</th>
+    <th>Design</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,selenium,qt" alt="Tools & Automation" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps,ai" alt="Design" /></td>
+  </tr>
+</table>
 
-###
+<p align="center">
+  <b>🌱 Currently Learning</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,docker" alt="Currently Learning" />
+</p>
 
-<br clear="both">
+## 🚀 Featured Project
 
-<div align="left">
-  <a href="https://t.me/sphr79" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=sphr79&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=sepehryekta79@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <a href="https://github.com/jokerghosts/todolist-quera"><b>📝 Quera Todolist</b></a>
+      <br><br>
+      A daily task manager with task prioritization, progress tracking and light/dark themes, built as a team project during the Quera Front-End Bootcamp, where I served as <b>Team Lead &amp; Project Manager</b>.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0A66C2&height=120&section=footer" alt="" width="100%" />
+</p>
