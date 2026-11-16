@@ -22,7 +22,7 @@ I'm a **full-stack web developer** specializing in **Django**, building complete
 - 🗄️ **Databases:** PostgreSQL, MySQL
 - 🤝 **Open to collaborate on:** Django and Telegram bot projects
 - 💬 **Ask me about:** Django, web development and Telegram bots
-- 🌱 **Currently learning:** React and Docker
+- 🌱 **Currently learning:** React (with TypeScript) and Docker
 
 ## 🛠️ Tech Stack
 
@@ -51,11 +51,23 @@ I'm a **full-stack web developer** specializing in **Django**, building complete
   <img src="https://skillicons.dev/icons?i=react,docker" alt="Currently Learning" />
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center" width="600">
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/jokerghosts/think-board-quera"><b>🗒️ Think Board</b></a>
+      <br><br>
+      A note-taking app to create, edit, delete, search and sort notes, connected to a REST API. It has light/dark themes, live form validation, loading skeletons and a responsive layout. Built with React during the Quera Front-End Bootcamp.
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="daisyUI" />
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/jokerghosts/todolist-quera"><b>📝 Quera Todolist</b></a>
       <br><br>
       A daily task manager with task prioritization, progress tracking and light/dark themes, built as a team project during the Quera Front-End Bootcamp, where I served as <b>Team Lead &amp; Project Manager</b>.
