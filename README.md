@@ -56,7 +56,7 @@ I'm a **full-stack web developer** specializing in **Django**, building complete
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/jokerghosts/think-board-quera"><b>🗒️ Think Board</b></a>
+      <a href="https://github.com/jokerghosts/think-board-quera"><b>🗒️ Think Board - Quera Bootcamp</b></a>
       <br><br>
       A note-taking app to create, edit, delete, search and sort notes, connected to a REST API. It has light/dark themes, live form validation, loading skeletons and a responsive layout. Built with React during the Quera Front-End Bootcamp.
       <br><br>
@@ -68,7 +68,7 @@ I'm a **full-stack web developer** specializing in **Django**, building complete
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/jokerghosts/todolist-quera"><b>📝 Quera Todolist</b></a>
+      <a href="https://github.com/jokerghosts/todolist-quera"><b>📝 Todolist - Quera Bootcamp</b></a>
       <br><br>
       A daily task manager with task prioritization, progress tracking and light/dark themes, built as a team project during the Quera Front-End Bootcamp, where I served as <b>Team Lead &amp; Project Manager</b>.
       <br><br>
